@@ -1,0 +1,59 @@
+/* navbar */
+.navbar{
+    background-color: rgb(244, 255, 252);
+}
+
+/* a.navbar-brand{
+    font-family: 'Montserrat';
+} */
+
+/* options in navbar */
+.nav-link:hover{
+    transition: 0.25s ease;
+}
+
+.nav-link{
+    transition: 0.25s ease;
+}
+
+/* main navbar */
+nav .navbar-collapse{
+    transition: all 0.25s ease;
+}
+
+/* button to toggle navbar */
+.navbar-toggler:hover{
+    background-color: rgba(0,0,0,.5);
+    transition: all 0.25s ease;
+}
+
+.navbar-toggler{
+    transition: all 0.25s ease;
+}
+
+/* jumbotron */
+/* .container{
+    border: 1px solid rgb(190, 255, 93);
+} */
+
+/* image size in cards */
+.card-img-top{
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+/* unordered lists */
+.window-list{
+    border: 1px solid #61dafb;
+    list-style: none;
+}
+  
+/* div{
+    border: 1px solid rgb(11, 168, 121);
+} */
+  
+div .num-sys-container,
+div .num-input-container{
+    border: 1px solid rgb(177, 67, 221);
+}

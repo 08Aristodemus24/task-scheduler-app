@@ -1,2 +1,5 @@
 # ignore .env file
 /.env
+
+# node modules in client-side folder
+/client-side/node_modules/
